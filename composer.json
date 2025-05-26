@@ -1,0 +1,16 @@
+{
+    "name": "achilles/ad-task-1",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Achilles\\AdTask1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "chillyboy07",
+            "email": "bonneviechilly@gmail.com"
+        }
+    ],
+    "require": {}
+}
